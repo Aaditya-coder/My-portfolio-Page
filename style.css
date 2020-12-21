@@ -1,0 +1,56 @@
+
+
+h2 {
+
+    color: rgb(253, 9, 9);
+    background-color: rgb(247, 222, 1);
+    border:black;
+}
+ 
+
+
+.header{
+    color: rgb(255, 27, 10);
+    background-color: violet;
+    display: flex;
+    justify-content: center;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: row;
+    justify-content: first baseline;
+}
+
+ .grid {
+    border:solid;
+    border-radius: 30px;
+    border-color:orange;
+
+
+}
+
+.grid {
+    background-color: lawngreen;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+
+p,h2{
+    text-align: center;
+}
+
+
+ *.origami {
+position: relative; 
+border-radius: 20px;
+background-color:lawngreen;
+padding: 30px;
+margin: 25px;
+width: 310px;
+font-family: fantasy;
+}
+
